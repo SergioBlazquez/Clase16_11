@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clase16_11</string>
+    <string name="stringCaracteres">El edit text de la activity anterior tenía una longitud de X caracteres</string>
+
+</resources>
